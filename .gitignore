@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+# output folders / many plots
+40_8_1000_5000_1000/
+results/
+*.png
+*.jpg
+*.csv
